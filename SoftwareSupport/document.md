@@ -13,7 +13,7 @@
 This program applies **CRUD** operations with a GUI for the users. There are 3 columns, 'ID', 'username', 'email' and 'Enable'. The roles that can be given to the people in the database are 'Super Admin', 'Admin', and 'Guest'. Super Admin role is must to manage the records and users, however, its name can be changed. **Only one** super admin role can be present in the database, and it can specify the privileges of the other roles. Super admin role **cannot remove** itself but **can modify itself** excepts its **role**.
 **New columns** and **roles** can be added, and current roles **can be modified** by the users **according to privileges** of the roles. Furthermore, the program allow the user to determine the number of columns displayed in the program.
 The program can be look like 
-![gui](/gui.png)
+![gui](/SoftwareSupport/gui.png)
 
 
 ---
